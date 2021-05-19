@@ -116,3 +116,6 @@ function game(rounds){
     
     return "game over";
 }
+
+console.log("Game of Rock Paper Scissors vs the Computer - 5 rounds");
+game(5);
