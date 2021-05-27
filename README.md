@@ -1,3 +1,2 @@
 # rock-paper-scissors
-TOP Javascript rock paper scissors game
-A console-based game of rock paper scissors
+The Odin Project : rock paper scissors game project
